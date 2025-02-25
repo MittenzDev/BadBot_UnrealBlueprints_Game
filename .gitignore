@@ -1,0 +1,29 @@
+# Ignore the build directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore config files (local, user-specific settings)
+Config/DefaultEditor.ini
+Config/DefaultEngine.ini
+Config/DefaultGame.ini
+
+# Ignore backup and autosave files
+Backup/
+Autosaves/
+
+# Ignore logs
+Saved/Logs/
+
+# Ignore compiled shaders
+Shaders/
+
+# Ignore user-specific project files
+*.user
+*.userprefs
+
+# Ignore Unreal Engine's temporary files
+*.log
+*.db
+*.suo
