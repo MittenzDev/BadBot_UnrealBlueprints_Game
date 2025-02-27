@@ -3,7 +3,7 @@
 This project was created as part of a course to dive deep into Unreal Engine's Blueprints system. In this project, we created "Bad Bot," a drone flying shooter game featuring enemy bots, projectiles, sound/visual effects, and a boss fight.
 
 ## Project Overview
-- **Game Type**: 2D/3D flying shooter
+- **Game Type**: 3D flying shooter
 - **Features**:
   - Spawning enemy bots
   - Firing projectiles
